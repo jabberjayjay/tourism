@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Aasleagh Falls",
+    "location": "Leenane, Co. Mayo",
+    "county": "Mayo",
+    "description": "The Aasleagh Falls is a beautiful waterfall north of the village of Leenane and close to where the counties of Galway and Mayo meet. It is located on the Erriff River."
+  },
+  {
+    "name": "Achill Island",
+    "location": "Achill Island, Co. Mayo, Ireland",
+    "county": "Mayo",
+    "description": "Ireland's largest offshore island is Achill with its golden beaches, unspoiled beauty and great island skies full of ever changing cloudscapes, continually caressing its peaks and valleys."
+  },
+  {
+    "name": "Adventure Connemara",
+    "location": "Connemara, County Galway, Ireland",
+    "county": "Galway",
+    "description": "Adventure Activities: There are many adventure activities apart from walking and cycling along the Connemara Loop, some requiring more energy than others, these include abseiling, adventure activities like archery."
+  },
+  {
+    "name": "Athenry Castle",
+    "location": "Athenry, Co. Galway",
+    "county": "Galway",
+    "description": "Athenry Castle is one of the best castles in Galway to visit and an ideal place for visitors to start learning about the town's history. It is the starting point of the town's medieval walls."
+  },
+  {
+    "name": "Aughnanure Castle",
+    "location": "Aughnanure, Oughterard, Co. Galway, Ireland",
+    "county": "Galway",
+    "description": "Aughnanure Castle was built in the 16th century by the O'Flaherty clan, and is renowned for its unusual double bawn. It lies in picturesque surroundings close to the shores of Lough Corrib."
+  },
+  {
+    "name": "Ballycurrin Lighthouse",
+    "location": "Ballycurrin Demesne, Ballycurrin, Co. Mayo",
+    "county": "Mayo",
+    "description": "Built in 1772, Ballycurrin Lighthouse is situated on the eastern shore of Lough Corrib, at Ballycurrin Demesne, Headford, Co. Galway. This unusual lighthouse lies just inside County Mayo on the Ballycurrin Peninsula."
+  },
+  {
+    "name": "Ballyglunin Railway Station",
+    "location": "Station Road, Coolfowerbeg, Ballyglunin, Co. Galway, H54 D863",
+    "county": "Galway",
+    "description": "Ballyglunin Railway Station is a heritage rail attraction near the village of Ballyglunin in east Galway. It was first built in 1860 and served as the town's main means of transportation."
+  },
+  {
+    "name": "Ballyvaughan",
+    "location": "Ballyvaughan, County Clare, Ireland",
+    "county": "Clare",
+    "description": "The pretty village of Ballyvaughan lies on the coast of North Clare within sight of beautiful Galway Bay. Ballyvaughan was established as a small fishing community from the early 19th century."
+  },
+  {
+    "name": "Battle of Aughrim Interpretative Centre",
+    "location": "Kinnaveelish, Co. Galway, Ireland",
+    "county": "Galway",
+    "description": "Battle of Aughrim Interpretative Centre is a heritage center that provides insight into the Battle of Aughrim on July 12, 1691, a significant moment of Irish history that cost 9,000 lives."
+  },
+  {
+    "name": "An Spidéal Gaeltacht",
+    "location": "Spiddal, Co. Galway, Ireland",
+    "county": "Galway",
+    "description": "From the village of Bearna (Barna) some four miles west of the vibrant city of Gaillimh (Galway) the road to the Conamara (Connemara) Gaeltacht hugs the shoreline of world famous Galway Bay."
+  },
+  {
+    "name": "Brigit’s Garden & Café",
+    "location": "Pollagh, Rosscahill, Co. Galway",
+    "county": "Galway",
+    "description": "The vision at Brigit’s Garden is to connect people and nature. The Gardens are widely regarded as one of the most spectacular in Ireland, set within 11 acres of native woodland & wildflower meadows."
+  },
+  {
+    "name": "The Burren Scenic Drive",
+    "location": "The Burren, Co. Clare, Ireland",
+    "county": "Clare",
+    "description": "The north west region of County Clare has unique landscape unlike any other place in Ireland. The Burren extends over more than a hundred square miles and most of it is made up of limestone."
+  }
+]
